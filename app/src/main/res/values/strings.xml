@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UniPyq</string>
+    <string name="username_hint">Username</string>
+    <string name="welcome_subheading">Welcome to</string>
+</resources>
